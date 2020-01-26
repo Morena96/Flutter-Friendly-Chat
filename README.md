@@ -1,6 +1,6 @@
 # friendly_chat
 
-Chat Screen app
+Chat Screen app for Android&IOS platforms designed using Material,Cupertino icons
 
 ## Getting Started
 
